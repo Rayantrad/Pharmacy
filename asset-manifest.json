@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CarePharma-Web2/static/css/main.6cbff9d1.css",
-    "main.js": "/CarePharma-Web2/static/js/main.0cdb1213.js",
-    "static/js/453.bf8a16d9.chunk.js": "/CarePharma-Web2/static/js/453.bf8a16d9.chunk.js",
-    "index.html": "/CarePharma-Web2/index.html",
-    "main.6cbff9d1.css.map": "/CarePharma-Web2/static/css/main.6cbff9d1.css.map",
-    "main.0cdb1213.js.map": "/CarePharma-Web2/static/js/main.0cdb1213.js.map",
-    "453.bf8a16d9.chunk.js.map": "/CarePharma-Web2/static/js/453.bf8a16d9.chunk.js.map"
+    "main.css": "/Pharmacy/static/css/main.6cbff9d1.css",
+    "main.js": "/Pharmacy/static/js/main.19b65664.js",
+    "static/js/453.bf8a16d9.chunk.js": "/Pharmacy/static/js/453.bf8a16d9.chunk.js",
+    "index.html": "/Pharmacy/index.html",
+    "main.6cbff9d1.css.map": "/Pharmacy/static/css/main.6cbff9d1.css.map",
+    "main.19b65664.js.map": "/Pharmacy/static/js/main.19b65664.js.map",
+    "453.bf8a16d9.chunk.js.map": "/Pharmacy/static/js/453.bf8a16d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cbff9d1.css",
-    "static/js/main.0cdb1213.js"
+    "static/js/main.19b65664.js"
   ]
 }
