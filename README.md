@@ -2,11 +2,11 @@
 
 CarePharma is a modular, responsive React-based e-commerce platform tailored for pharmaceutical products. It features protected admin routes, dynamic product grids, cart and checkout flows, and a clean UI powered by Tailwind CSS.
 
-## 🌐 Live Demo
+## Live Demo
 
-👉 [View CarePharma on GitHub Pages](https://rayantrad.github.io/Pharmacy)
+ [View CarePharma on GitHub Pages](https://rayantrad.github.io/Pharmacy)
 
-## 🔑 Demo Credentials
+## Demo Credentials
 
 Since signup is disabled, use the following credentials to log in:
 
@@ -18,7 +18,7 @@ Since signup is disabled, use the following credentials to log in:
   - Username: `admin`
   - Password: `123`
 
-⚠️ These are demo accounts only, provided for testing purposes.
+ These are demo accounts only, provided for testing purposes.
 
 ## Getting Started
 
