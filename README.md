@@ -1,8 +1,12 @@
-# 💊 CarePharma
+# CarePharma
 
 CarePharma is a modular, responsive React-based e-commerce platform tailored for pharmaceutical products. It features protected admin routes, dynamic product grids, cart and checkout flows, and a clean UI powered by Tailwind CSS.
 
-## 🚀 Getting Started
+## 🌐 Live Demo
+
+👉 [View CarePharma on GitHub Pages](https://rayantrad.github.io/Pharmacy)
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -16,6 +20,6 @@ Make sure you have the following installed:
 ### Installation
 
 ```bash
-git clone https://github.com/Rayantrad/CarePharma-Web2.git
-cd carepharma
+git clone https://github.com/Rayantrad/Pharmacy.git
+cd Pharmacy
 npm install
