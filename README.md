@@ -6,6 +6,20 @@ CarePharma is a modular, responsive React-based e-commerce platform tailored for
 
 👉 [View CarePharma on GitHub Pages](https://rayantrad.github.io/Pharmacy)
 
+## 🔑 Demo Credentials
+
+Since signup is disabled, use the following credentials to log in:
+
+- **User account**
+  - Username: `user`
+  - Password: `123`
+
+- **Admin account**
+  - Username: `admin`
+  - Password: `123`
+
+⚠️ These are demo accounts only, provided for testing purposes.
+
 ## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
