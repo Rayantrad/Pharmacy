@@ -24,6 +24,7 @@ Since signup is disabled, use the following credentials to log in:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
 ### Prerequisites
 
 Make sure you have the following installed:
@@ -31,25 +32,39 @@ Make sure you have the following installed:
 - Node.js (v18+ recommended)
 - npm (v9+)
 
+
 ### Installation
 
 ```bash
 git clone https://github.com/Rayantrad/Pharmacy.git
 cd Pharmacy
 npm install
+```
 
 
-### Screenshots of the UI
+## Screenshots of the UI
 
-<img width="982" height="857" alt="image" src="https://github.com/user-attachments/assets/07074f27-c1fc-483e-b2dc-399dc25416aa" />
-<img width="1027" height="781" alt="image" src="https://github.com/user-attachments/assets/f1429289-ab62-4b1d-967b-dd61ac9dcef2" />
-<img width="1566" height="925" alt="image" src="https://github.com/user-attachments/assets/33d59274-6fb0-4085-a197-8d867b8df77b" />
-<img width="1294" height="842" alt="image" src="https://github.com/user-attachments/assets/ec5bbc39-89f4-4cdd-9e11-84a2e12463d3" />
-<img width="1320" height="805" alt="image" src="https://github.com/user-attachments/assets/a5ece9ad-7d65-4373-af4f-460ea06e7e0a" />
-<img width="1332" height="648" alt="image" src="https://github.com/user-attachments/assets/86c13b41-cd4a-4a6d-97d6-9ce47fe93ac1" />
-<img width="1583" height="823" alt="image" src="https://github.com/user-attachments/assets/dbda5a4e-1050-4778-b136-660b55e1291e" />
-<img width="1252" height="728" alt="image" src="https://github.com/user-attachments/assets/bdf7f2b4-f9e4-4f5c-9682-66f286397437" />
-<img width="1675" height="902" alt="image" src="https://github.com/user-attachments/assets/36895aff-ed85-437c-a327-e47559542552" />
-<img width="969" height="839" alt="image" src="https://github.com/user-attachments/assets/1a265da2-573d-4a50-8472-c29c47c2ba14" />
-<img width="1552" height="921" alt="image" src="https://github.com/user-attachments/assets/06876a4d-b193-43a1-b695-379e18b30802" />
-<img width="1734" height="915" alt="image" src="https://github.com/user-attachments/assets/e779ba2b-9e37-48d3-8d2b-dc390248887f" />
+<img width="983" height="857" alt="Screenshot 2025-11-23 173749" src="https://github.com/user-attachments/assets/7ebe3351-9305-4359-bcb4-b6f882448054" />
+
+<img width="1027" height="781" alt="Screenshot 2025-11-23 173827" src="https://github.com/user-attachments/assets/a199057c-8dba-41dc-8386-dd9458e093b4" />
+
+<img width="1566" height="925" alt="Screenshot 2025-11-23 173850" src="https://github.com/user-attachments/assets/ca986056-7cc2-4cc8-a59c-e512ee193e53" />
+
+<img width="1294" height="842" alt="Screenshot 2025-11-23 173923" src="https://github.com/user-attachments/assets/2c55d0e4-1668-42fd-b30b-a42dac2ec6f0" />
+
+<img width="1320" height="805" alt="Screenshot 2025-11-23 173942" src="https://github.com/user-attachments/assets/3709e4f6-89ec-4d71-b53f-8f82e47df8a1" />
+<img width="1332" height="648" alt="Screenshot 2025-11-23 173958" src="https://github.com/user-attachments/assets/fa70a1d1-66a5-45e5-85a6-40ba09e05ac1" />
+
+<img width="1583" height="823" alt="Screenshot 2025-11-23 174039" src="https://github.com/user-attachments/assets/cd643755-33df-41c7-9b0c-23336cf01956" />
+
+<img width="1252" height="728" alt="Screenshot 2025-11-23 174053" src="https://github.com/user-attachments/assets/2e94c70f-a519-4925-9eb4-b3a4133ca9b0" />
+
+<img width="1675" height="902" alt="Screenshot 2025-11-23 174116" src="https://github.com/user-attachments/assets/2594e04e-7fb0-477b-997e-cbdc486b79c9" />
+
+<img width="969" height="839" alt="Screenshot 2025-11-23 174142" src="https://github.com/user-attachments/assets/935c62fd-ddfb-4e15-87fb-7e5109805ad0" />
+<img width="1552" height="921" alt="Screenshot 2025-11-23 174204" src="https://github.com/user-attachments/assets/5fec9db9-e274-429b-82a0-616677669cc8" />
+<img width="1734" height="915" alt="Screenshot 2025-11-23 174222" src="https://github.com/user-attachments/assets/faeebd27-215a-4088-b6ca-22481dfcbcb7" />
+
+
+
+
